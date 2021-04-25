@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Bodyweight",
+    "abbreviation": "BW"
+  },
+  {
+    "name": "Free Weights",
+    "abbreviation": "FW"
+  },
+  {
+    "name": "Cardio Machine",
+    "abbreviation": "CM"
+  },
+  {
+    "name": "Strength Machine",
+    "abbreviation": "SM"
+  },
+  {
+    "name": "Accessories",
+    "abbreviation": "AC"
+  }
+]

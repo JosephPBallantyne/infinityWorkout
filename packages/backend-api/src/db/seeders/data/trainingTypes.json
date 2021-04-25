@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Cardio",
+    "abbreviation": "C"
+  },
+  {
+    "name": "HIIT",
+    "abbreviation": "H"
+  },
+  {
+    "name": "Strength",
+    "abbreviation": "S"
+  },
+  {
+    "name": "Flexibility",
+    "abbreviation": "F"
+  },
+  {
+    "name": "Other",
+    "abbreviation": "O"
+  }
+]

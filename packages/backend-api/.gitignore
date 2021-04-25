@@ -1,0 +1,15 @@
+logs
+*.log
+npm-debug.log*
+.DS_store
+node_modules/
+.npm
+.eslintcache
+.env
+.env.test
+!.env.example
+.env.deploy
+.env.deploy.*
+!.env.deploy.example
+!.env.deploy.example.*
+dist/

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Pectoralis Minor",
+    "commonName": "Pec (Minor)",
+    "head": null,
+    "muscleGroupId": 4
+  },
+  {
+    "name": "Pectoralis Major",
+    "commonName": "Pec (Major)",
+    "head": "Clavicular",
+    "muscleGroupId": 4
+  },
+  {
+    "name": "Pectoralis Major",
+    "commonName": "Pec (Major)",
+    "head": "Sternocosial",
+    "muscleGroupId": 4
+  },
+  {
+    "name": "Triceps Brachii",
+    "commonName": "Tricep",
+    "head": "Lateral",
+    "muscleGroupId": 3
+  },
+  {
+    "name": "Triceps Brachii",
+    "commonName": "Tricep",
+    "head": "Long",
+    "muscleGroupId": 3
+  },
+  {
+    "name": "Triceps Brachii",
+    "commonName": "Tricep",
+    "head": "Medial",
+    "muscleGroupId": 3
+  }
+]
