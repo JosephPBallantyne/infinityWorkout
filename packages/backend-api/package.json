@@ -11,7 +11,8 @@
     "lint": "tsc --noEmit && eslint \"**/*.{js,ts}\" --quiet --fix",
     "serve": "node dist/server.js",
     "serve-debug": "nodemon --inspect dist/server.js",
-    "start": "NODE_ENV=local npm run serve"
+    "start": "npm run serve",
+    "start-local": "NODE_ENV=local npm run serve"
   },
   "dependencies": {
     "@types/bcryptjs": "2.4.2",
